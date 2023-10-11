@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513469735831",
+    "project_id": "vtechchallenge",
+    "storage_bucket": "vtechchallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513469735831:android:a0007c89df5bba7cc35ad2",
+        "android_client_info": {
+          "package_name": "com.example.vtech_challenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdlzFvn3_HFnMLSEixfpQgVBsfeizlAyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
